@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spotify-roulette/static/css/main.221924ce.css",
+    "main.js": "/spotify-roulette/static/js/main.35162b80.js",
+    "index.html": "/spotify-roulette/index.html",
+    "main.221924ce.css.map": "/spotify-roulette/static/css/main.221924ce.css.map",
+    "main.35162b80.js.map": "/spotify-roulette/static/js/main.35162b80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221924ce.css",
+    "static/js/main.35162b80.js"
+  ]
+}
