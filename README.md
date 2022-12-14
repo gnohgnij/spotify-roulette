@@ -1,3 +1,3 @@
 # Spotify Roulette
 
-Listen to random songs on Spotify!
+Play songs from Spotify randomly!
